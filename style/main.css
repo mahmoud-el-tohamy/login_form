@@ -58,8 +58,8 @@ li:hover{
 
 section{
     width: 27%;
-    height: 20em;
-    margin: 5em auto;
+    height: 250px;
+    margin: 150px auto;
     background-color: #bdd7ee;
     display: flex;
     align-items: center;
